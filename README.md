@@ -1,2 +1,0 @@
-# DoNotShootAliens
-Mobile unity game
