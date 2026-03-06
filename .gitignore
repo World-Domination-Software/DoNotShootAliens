@@ -1,0 +1,51 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Asset bundles and cache
+[Aa]sset[Bb]undles/
+[Aa]sset[Bb]undle[sS]/
+[Ss]treamingAssets/AssetBundles/
+
+# Visual Studio / Rider
+.vs/
+.vscode/
+.idea/
+*.user
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+
+# Unity auto-generated files
+*.unitypackage
+*.meta~
+*.orig
+*.bak
+
+# Crash reports
+sysinfo.txt
+
+# OS generated files
+.DS_Store
+.DS_Store? 
+._* 
+.Spotlight-V100 
+.Trashes 
+Icon?
+ehthumbs.db 
+Thumbs.db
+
+# Local configuration
+UserSettings/
